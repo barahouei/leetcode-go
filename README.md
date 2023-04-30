@@ -2,4 +2,6 @@
 
 This repository is solutions for leetcode problems in Golang.
 
-[ Two Sum](twosum)
+1. [Two Sum](twosum)
+
+2. [Reverse Integer](reverseint)
